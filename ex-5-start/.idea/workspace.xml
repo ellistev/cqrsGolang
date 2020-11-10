@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0fa9062-ee44-4cd0-ad3a-7d5f2e79dbe1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/.idea/ex-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/cqrs/aggregate_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/cqrs/aggregate_root.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/cqrs/commands.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/cqrs/event_store.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/cqrs/events.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/cqrs/factory.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/database/couchbase.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/domain/baseeventprocessor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/domain/commands/roomCommands.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/domain/denormalizer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/domain/events/roomEvents.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/domain/handlers/roomRequestHandlers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/domain/room.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/domain/roomCommandHandler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/event.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/helpers/struct_to_map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/mytracker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/providers/geteventstore/geteventstore.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/providers/inmemory/direct_bus.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/providers/inmemory/event_store.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/requests/RoomType.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/requests/requests.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex-6-complete/sqlite-database.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/.idea/ex-1-3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/cqrs/aggregate_repository.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/cqrs/aggregate_root.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/cqrs/commands.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/cqrs/event_store.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/cqrs/events.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/cqrs/factory.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/database/couchbase.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/domain/baseeventprocessor.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/domain/commands/roomCommands.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/domain/denormalizer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/domain/events/roomEvents.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/domain/handlers/roomRequestHandlers.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/domain/room.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/domain/roomCommandHandler.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/event.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/mytracker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/providers/geteventstore/geteventstore.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/providers/inmemory/direct_bus.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/providers/inmemory/event_store.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/requests/RoomType.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/requests/requests.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-1-3/sqlite-database.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/cqrs/aggregate_repository.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/cqrs/aggregate_root.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/cqrs/commands.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/cqrs/event_store.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/cqrs/events.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/cqrs/factory.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/database/couchbase.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/domain/baseeventprocessor.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/domain/commands/roomCommands.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/domain/denormalizer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/domain/events/roomEvents.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/domain/handlers/roomRequestHandlers.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/domain/room.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/domain/roomCommandHandler.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/event.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/helpers/struct_to_map.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/mytracker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/providers/geteventstore/geteventstore.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/providers/inmemory/direct_bus.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/providers/inmemory/event_store.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/requests/RoomType.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/requests/requests.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex-4/sqlite-database.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises.odt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1k7DQt558aEBhrWjlQFQDF9yGqQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ex-4" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="bus" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="265" key="#Go_Modules" timestamp="1605043540464">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="520" y="265" key="#Go_Modules/0.23.1440.803/1440.23.1920.1057@0.23.1440.803" timestamp="1605043540464" />
+    <state width="1398" height="256" key="GridCell.Tab.0.bottom" timestamp="1605044414764">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.bottom/0.23.1440.803/1440.23.1920.1057@0.23.1440.803" timestamp="1605044414764" />
+    <state width="1398" height="256" key="GridCell.Tab.0.center" timestamp="1605044414764">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.center/0.23.1440.803/1440.23.1920.1057@0.23.1440.803" timestamp="1605044414764" />
+    <state width="1398" height="256" key="GridCell.Tab.0.left" timestamp="1605044414763">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.left/0.23.1440.803/1440.23.1920.1057@0.23.1440.803" timestamp="1605044414763" />
+    <state width="1398" height="256" key="GridCell.Tab.0.right" timestamp="1605044414764">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.right/0.23.1440.803/1440.23.1920.1057@0.23.1440.803" timestamp="1605044414764" />
+    <state width="1398" height="256" key="GridCell.Tab.1.bottom" timestamp="1605044414765">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.bottom/0.23.1440.803/1440.23.1920.1057@0.23.1440.803" timestamp="1605044414765" />
+    <state width="1398" height="256" key="GridCell.Tab.1.center" timestamp="1605044414764">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.center/0.23.1440.803/1440.23.1920.1057@0.23.1440.803" timestamp="1605044414764" />
+    <state width="1398" height="256" key="GridCell.Tab.1.left" timestamp="1605044414764">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.left/0.23.1440.803/1440.23.1920.1057@0.23.1440.803" timestamp="1605044414764" />
+    <state width="1398" height="256" key="GridCell.Tab.1.right" timestamp="1605044414765">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.right/0.23.1440.803/1440.23.1920.1057@0.23.1440.803" timestamp="1605044414765" />
+  </component>
+</project>
